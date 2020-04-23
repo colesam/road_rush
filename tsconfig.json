@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "noImplicitAny": false,
+    "esModuleInterop": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@Entity/*": ["src/ecs/entity/*"],
+      "@Component/*": ["src/ecs/component/*"],
+      "@System/*": ["src/ecs/system/*"]
+    }
+  }
+}
