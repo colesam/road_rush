@@ -1,5 +1,7 @@
 # Road Rush
 
+![Game Screenshot](https://raw.githubusercontent.com/colesam/road_rush/master/images/preview.png)
+
 This is a game I made using the Phaser 3 framework. Its mechanics and assets
 are from William Clarkson's Udemy course (https://www.udemy.com/course/making-html5-games-with-phaser-3),
 but the logic was completely changed to expirment with using an
